@@ -1,2 +1,2 @@
 # hellow-world
-Github learning
+Newbee to github.
